@@ -1,7 +1,7 @@
 {
   "name": "wordle",
   "version": "0.8.0-SNAPSHOT",
-  "homepage": "https://alek29c.github.io/wordle",
+  "homepage": "https://alek29c.github.io/zborce",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.4.2",
