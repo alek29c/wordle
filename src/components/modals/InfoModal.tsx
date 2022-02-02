@@ -48,7 +48,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
                             <div>
                                 <div className="text-center">
                                     <Dialog.Title as="h3" className="text-lg leading-6 font-medium text-gray-900">
-                                        Како се игра
+                                        Како се играт
                                     </Dialog.Title>
                                     <div className="mt-2">
                                         <p className="text-left text-md text-gray-500">
