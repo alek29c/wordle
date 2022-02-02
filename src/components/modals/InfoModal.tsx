@@ -52,7 +52,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
                                     </Dialog.Title>
                                     <div className="mt-2">
                                         <p className="text-left text-md text-gray-500">
-                                            Погодете го <b>ЗБОРЛЕ</b> во 6 обиди.
+                                            Погодете го <b>ОХРИДСКОТО ЗБОРЧЕ</b> во 6 обиди.
                                         </p>
 
                                         <p className="text-left text-md text-gray-500 mt-2">
@@ -61,7 +61,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
                                         </p>
 
                                         <p className="text-left text-md text-gray-500 mt-2 border-b-2 pb-2">
-                                            По секој обид, бојата на квадратите ќе се менува да ви покаже колку вашиот
+                                            По секој обид, бојата на квадратите ќе се менвит да ви покажит колку вашиот
                                             обид е блиску до бараниот збор.
                                         </p>
 
@@ -102,7 +102,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
                                     </div>
 
                                     <p className="text-left text-md text-gray-500 mt-2 border-t-2 pt-2">
-                                        Нов <b>ЗБОРЛЕ</b> е достапен секој ден.
+                                        Ново <b>ОХРИДСКО ЗБОРЧЕ</b> е достапен секој ден.
                                     </p>
                                 </div>
                             </div>
