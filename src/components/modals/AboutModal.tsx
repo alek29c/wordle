@@ -62,6 +62,13 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
                                             >
                                                 играјте ја оргиналната игра
                                             </a>
+                                          а и{' '}
+                                            <a
+                                                href="https://www.zborle.mk"
+                                                className="underline font-bold"
+                                            >
+                                                играјте ја оргиналната зборле игра
+                                            </a>
                                         </p>
                                     </div>
                                 </div>
