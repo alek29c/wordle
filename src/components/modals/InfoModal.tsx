@@ -56,8 +56,8 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
                                         </p>
 
                                         <p className="text-left text-md text-gray-500 mt-2">
-                                            Секој обид мора да биде валиден збор од 5 букви. Притиснете го копчето ENTER
-                                            да направите обид.
+                                            Секој обид морат да бидит валиден збор од 5 букви. Притисните го копчето ENTER
+                                            да напрајте обид.
                                         </p>
 
                                         <p className="text-left text-md text-gray-500 mt-2 border-b-2 pb-2">
